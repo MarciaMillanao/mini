@@ -103,10 +103,10 @@ a{
 
 /*section*/
 /*footer*/
-footer{
+#contactanos{
 	background: #6D6767;
-	padding:3%;
-
+	width: 98%;
+	padding: 3%;
 }
 
 footer 	p{
